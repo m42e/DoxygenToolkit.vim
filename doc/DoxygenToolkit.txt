@@ -1,0 +1,5 @@
+*DoxygenToolkit.txt* DoxygenToolkit, usefull tools for doxygen *DoxygenToolkit*
+
+DoxygenToolkit Manual
+
+" vim: set expandtab sts=2 ts=2 sw=2 tw=78 ft=help norl
